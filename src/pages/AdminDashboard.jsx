@@ -294,6 +294,11 @@ export default function AdminDashboard({ customer, onProductsChange }) {
                       <option value="Bebidas">Bebidas</option>
                       <option value="Limpieza">Limpieza</option>
                       <option value="Fiambrería">Fiambrería</option>
+                      <option value="Bazar">Bazar</option>
+                      <option value="Mascotas">Mascotas</option>
+                      <option value="Vinoteca">Vinoteca</option>
+                      <option value="Blanquería">Blanquería</option>
+                      <option value="Camping">Camping</option>
                     </select>
                   </div>
                   <div className="form-group">

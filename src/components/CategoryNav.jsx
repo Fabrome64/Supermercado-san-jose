@@ -6,8 +6,14 @@ const CATEGORIES = [
   'Frescos',
   'Bebidas',
   'Limpieza',
-  'Fiambrería'
+  'Fiambrería',
+  'Bazar',
+  'Mascotas',
+  'Vinoteca',
+  'Blanquería',
+  'Camping'
 ];
+
 
 export default function CategoryNav({ selectedCategory, setSelectedCategory }) {
   return (
